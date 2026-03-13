@@ -23,8 +23,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 ```
-Developed by :  Gayathri D
-Register number : 212224220028
+Developed by :  ABDULRAWOOF
+Register number : 212224230003
 import numpy as np
 import math
 import matplotlib.pyplot as plt
